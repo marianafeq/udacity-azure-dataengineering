@@ -1,0 +1,9 @@
+{
+	"name": "df-udacity-mariana",
+	"location": "eastus",
+	"identity": {
+		"type": "SystemAssigned",
+		"principalId": "41ca28d4-10d8-4d87-8492-03a7fced1da8",
+		"tenantId": "397b6365-0fab-48d2-bce9-adca9c5a4b35"
+	}
+}
